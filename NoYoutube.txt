@@ -1,0 +1,5 @@
+(\.|^)googlevideo\.com$
+(\.|^)youtube\.com$
+(\.|^)ytimg\.com$
+(\.|^)googleusercontent\.com$
+(\.|^)gstatic\.com$
