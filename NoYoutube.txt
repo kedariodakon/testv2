@@ -1,9 +1,6 @@
-(\.|^)googlevideo\.com$
 (\.|^)youtube\.com$
+youtube.com
 (\.|^)googlevideo\.com$
-(\.|^)youtube\.com$
-(\.|^)ytimg\.com$
-(\.|^)googleusercontent\.com$
-(\.|^)gstatic\.com$
+googlevideo.com
 rr[0-9]+[-.]+sn-([a-z0-9]+).googlevideo(.com)?$
 r[0-9]+[-.]+sn-([a-z0-9]+).googlevideo(.com)?$
